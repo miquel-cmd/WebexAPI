@@ -1,0 +1,37 @@
+{
+  "name": "sirtex",
+  "version": "0.1.0",
+  "description": "A Webex extension",
+  "keywords": [
+    "webex"
+  ],
+  "author": "Roger Bagué <rbague@sirt.com>",
+  "homepage": "https://github.com/sirtdev/sirtex#readme",
+  "bugs": {
+    "url": "https://github.com/sirtdev/sirtex/issues"
+  },
+  "private": true,
+  "main": "src/index.js",
+  "scripts": {
+    "build": "webpack --progress --color ",
+    "start": "webpack serve --color"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sirtdev/sirtex"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.14.3",
+    "@babel/preset-env": "^7.14.4",
+    "@webpack-cli/serve": "^1.5.1",
+    "babel-loader": "^8.2.2",
+    "html-webpack-plugin": "^4.5.2",
+    "webpack": "^4.46.0",
+    "webpack-cli": "^4.7.2",
+    "webpack-dev-server": "^4.0.0-beta.3"
+  },
+  "dependencies": {
+    "tsd": "^0.17.0",
+    "webex": "^1.123.0"
+  }
+}

@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"path": "..\\..\\NODEJS\\EASO"
+		},
+		{
+			"path": "..\\..\\..\\..\\CARPETA\\1-CLIENTES\\DIR\\Documentacion\\XMLAPI41_6_Schemas\\xmlapi41.6.0-schemas.tar\\xmlapi41.6.0-schemas\\schemas\\2002\\06"
+		},
+		{
+			"path": ".."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "BNEW2021"
+	}
+}
